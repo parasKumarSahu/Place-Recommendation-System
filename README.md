@@ -13,3 +13,8 @@ Brightkite_totalCheckins.txt
 
 4) After all the four plots are displayed on the screen while runnning the recommendation syatem, you
 would be asked to open the recommended place in your default browser using Google Maps.
+
+![First Page](https://github.com/parasKumarSahu/Place-Recommendation-System/blob/master/report-1.jpg)
+
+![Second Page](https://github.com/parasKumarSahu/Place-Recommendation-System/blob/master/report-2.jpg)
+
