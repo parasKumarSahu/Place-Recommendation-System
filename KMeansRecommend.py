@@ -191,9 +191,9 @@ if readCluster == "1":
 else:
 	_id = int(input("Enter user id: "))
 	load_data(-1, sampling)
-	plt.figure(1)
-	plot_graph("Input Data", Latitudes, Longitudes, "All data points")
-	plt.show(block=False)
+#	plt.figure(1)
+#	plot_graph("Input Data", Latitudes, Longitudes, "All data points")
+#	plt.show(block=False)
 	clusters = readFromFile('cluster.txt')
 	plt.figure(2)
 	for i in range(k):		
